@@ -1,0 +1,17 @@
+{
+  "name": "oraculo-estandar",
+  "version": "1.0.0",
+  "description": "plantilla para oraculo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "danny gonzalez",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^14.1.0",
+    "ethereumjs-common": "^1.5.2",
+    "ethereumjs-tx": "^2.1.2",
+    "web3": "^1.6.1"
+  }
+}
